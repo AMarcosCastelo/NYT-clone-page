@@ -6,9 +6,7 @@ Hello! I'm Antonio Marcos and this is my **PROJECT: POSITIONING AND FLOATING ELE
 ## Note:
 
 - Instructions: [PROJECT: New York Times clone page](https://www.theodinproject.com/courses/html5-and-css3/lessons/positioning-and-floating-elements)
-- Language:  
-**HTML: 47.8%.  
-CSS: 52.2%.**
-- You can see this project through this link: [View in Browser](https://amarcoscastelo.github.io/google-homepage/)
-- Click [here](https://www.google.com/) for the original page.
+- Skills used: Flexbox, Grid;
+- You can see this project through this link: [View in Browser](https://amarcoscastelo.github.io/NYT-clone-page/)
+- Click [here](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) for the original page.
 
